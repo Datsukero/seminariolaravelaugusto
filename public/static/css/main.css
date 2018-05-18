@@ -1,0 +1,6 @@
+.dropdown-item:hover {
+ background-color: rgba(111, 66, 193,0.4) !important; 
+}
+.nav-link:hover {
+  color: rgb(154, 115, 226) !important;
+}
