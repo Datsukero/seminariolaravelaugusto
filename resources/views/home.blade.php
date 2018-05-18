@@ -8,7 +8,7 @@
               <label for="exampleFormControlTextarea1"><h4 class="mb-3 text-white lh-100"><i class="fas fa-comment-alt mr-3"></i>Deixe sua Mensagem</h4></label>
               <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary" onclick="">Enviar</button> <!-- Criar função de Clicar -->
+            <button type="submit" class="btn btn-primary btn-lg" onclick="">Enviar</button> <!-- Criar função de Clicar -->
           </form>
         </div>
       </div>

@@ -4,3 +4,6 @@
 .nav-link:hover {
   color: rgb(154, 115, 226) !important;
 }
+.navbar-brand:hover {
+  color: rgb(111, 66, 193) !important;
+}

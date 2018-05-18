@@ -34,7 +34,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin: 3rem 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -63,7 +63,7 @@ body {
 
 @media (min-width: 62em) {
   .featurette-heading {
-    margin-top: 7rem;
+    margin-top: 2rem;
   }
 }
 </style>
@@ -76,39 +76,55 @@ body {
         <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading">Sobre o trabalho.</h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <p class="lead">Projeto para seminário do Prof Augusto da turma TADS 2016 do grupo de estudo sobre o Framework Laravel.
+              <br>Grupo:
+              <ul>
+                <li>Pedro Machado</li>
+                <li>Claudinei</li>
+                <li>Héricles</li>
+                <li>Vitor</li>
+                <li>João Lucas</li>
+            </ul>
+            </p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="media/laravel_logo.jpg" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="media/laravel_logo.jpg" alt="Laravel Logo">
           </div>
         </div>
 
         <hr class="featurette-divider">
 
         <div class="row featurette">
-          <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <div class="col-md-12">
+            <h2 class="featurette-heading">Informações</h2>
+            <div class="row mt-4">
+              <div class="col-md-3">
+                 <ul class="list-group">
+                   <li class="list-group-item">PHP >= 7.1.3</li>
+                   <li class="list-group-item">OpenSSL PHP Extension</li>
+                   <li class="list-group-item">PDO PHP Extension</li>
+                   <li class="list-group-item">Mbstring PHP Extension</li>
+                   <li class="list-group-item">Tokenizer PHP Extension</li>
+                   <li class="list-group-item">XML PHP Extension</li>
+                   <li class="list-group-item">Ctype PHP Extension</li>
+                   <li class="list-group-item">JSON PHP Extension</li>
+                  </ul>
+              </div>
+              <div class="col-md-9 mt-3">
+               <p class="lead">
+                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
+                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. 
+               </p>
+                <p class="lead">
+                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
+                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. 
+                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
+                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
+               </p>
+              </div>  
           </div>
         </div>
-
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-          <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-          </div>
-          <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
-
+       </div>
         <!-- /END THE FEATURETTES -->
 
 </div><!-- /.container -->
