@@ -52,7 +52,7 @@
         <div class="container">
             <div class="content">
                 <i class="fab fa-empire fa-5x"></i>
-                <h3 class="mt-5">Desculpe mas nossos Stromtroopers não estão trabalhando nesse momento.</h3>
+                <h3 class="mt-5"><strong>Desculpe mas nossos Stromtroopers não estão trabalhando nesse momento.</strong></h3>
             </div>
         </div>
     </body>
