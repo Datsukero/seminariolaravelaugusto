@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Seminario Augusto Novos Framework">
     <meta name="author" content="Grupo IFPR TADS 2016">
-    
+    <meta name="theme-color" content="#403151">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#403151">
     <title>Estamos resolvendo...</title>
     
     <!-- Bootstrap core CSS -->

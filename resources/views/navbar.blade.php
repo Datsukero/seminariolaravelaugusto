@@ -13,6 +13,7 @@
             <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Perfil</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
               <a class="dropdown-item" href="#">Entrar</a>
+              <a class="dropdown-item" href="#">Cadastrar</a>
               <a class="dropdown-item" href="#">Sair</a>
             </div>
           </li>
