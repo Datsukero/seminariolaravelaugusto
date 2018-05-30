@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('home');
 });
+// Route::get('/', 'MsgController@mensagens') {
+  
+// }
 Route::get('sobre', function () {
   return view('sobre');
 });
