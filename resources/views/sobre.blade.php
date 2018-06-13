@@ -110,18 +110,6 @@ body {
                    <li class="list-group-item">JSON PHP Extension</li>
                   </ul>
               </div>
-              <div class="col-md-9 mt-3">
-               <p class="lead">
-                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
-                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. 
-               </p>
-                <p class="lead">
-                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
-                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. 
-                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
-                Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá. Blá.
-               </p>
-              </div>  
           </div>
         </div>
        </div>
