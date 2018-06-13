@@ -25,8 +25,6 @@
       <a href="#" onclick="atualizar()"><i class="fa fa-sync mr-3"></i>Atualizar</a>
     </small>
   </h6>
-
-
   <!-- Area que ira carregar as mensagens do DB -->
   <div id="Mensagens">
     <!-- Modelo de html que ira rederizar as mensagens

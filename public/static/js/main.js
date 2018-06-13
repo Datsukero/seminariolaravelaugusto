@@ -55,6 +55,5 @@ function enviar() {
         notChangedStepsCount++;
       }
     }, 50);
-
   }
 }
