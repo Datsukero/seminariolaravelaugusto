@@ -22,7 +22,9 @@ function atualizar() {
     texto += mensagens[i];
     texto += "</p> </div>";
   }
+  $("#Alerta").removeClass("show");
   document.getElementById("Mensagens").innerHTML = texto;
+  
 }
 
 function enviar() {

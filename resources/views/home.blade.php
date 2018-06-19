@@ -8,7 +8,7 @@
         <label for="exampleFormControlTextarea1"><h4 class="mb-3 text-white lh-100"><i class="fas fa-comment-alt mr-3"></i>Deixe sua Mensagem</h4></label>
         <textarea class="form-control" id="FormTextareaMensagem" rows="2"></textarea>
       </div>
-      <button type="submit" class="btn btn-primary btn-lg" onclick="enviar()">Enviar</button>
+      <button type="button" class="btn btn-primary btn-lg" onclick="enviar()">Enviar</button>
     </form>
   </div>
 </div>
